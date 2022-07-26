@@ -1,15 +1,15 @@
-#Comandos bádicos no terminal Git
--*dir* Mostra todas as pastas
--*cd* entra na pasta solicitada
--*cls* limpa tela
--*cd..* volta para pasta anterior
--*botão tab* auto completa o que ta escrevendo
--*mkdir* cria pasta
--*echo* printa no terminal
--*del* deleta tudo na pasta
--*rmdir* exclui diretório
--*git status* mostra status
--*git add* * adiciona tudo que esta na pasta
--*git push* passa os arquivos do terminal fixo para o remoto
--*git pull* puxa os arquivos do github para o terminal fixo
--*git clone* clona repositório do github
+# Comandos bádicos no terminal Git
+- **dir** Mostra todas as pastas
+- **cd** entra na pasta solicitada
+- **cls** limpa tela
+- **cd..** volta para pasta anterior
+- **botão tab** auto completa o que ta escrevendo
+- **mkdir** cria pasta
+- **echo** printa no terminal
+- **del** deleta tudo na pasta
+- **rmdir** exclui diretório
+- **git status** mostra status
+- **git add*** adiciona tudo que esta na pasta
+- **git push** passa os arquivos do terminal fixo para o remoto
+- **git pull** puxa os arquivos do github para o terminal fixo
+- **git clone** clona repositório do github
